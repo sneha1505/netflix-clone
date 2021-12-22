@@ -427,8 +427,8 @@ footer {
   }
 
   .signin__button {
-    padding: 10px 10px;
-    font-size: 13px;
+    padding: 10px 20px;
+    font-size: 18px;
   }
   .dropdown__container {
     padding: 10px 5px;
@@ -524,5 +524,6 @@ footer {
   }
 }
 
-@media (min-width: 1254px) {
+@media (min-width: 1254px) 
+{
 }
